@@ -3,20 +3,20 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "潜心专研的小张同学": {
-    "message": "潜心专研的小张同学",
+  "林同学": {
+    "message": "林同学",
     "description": "my name"
   },
   "homepage.qqgroup1": {
-    "message": "QQ 1 群：706947563",
+    "message": "个人联系方式：swlhgzr",
     "description": "qq group1"
   },
   "homepage.follow.link.href": {
-    "message": "https://space.bilibili.com/299974236",
+    "message": "https://space.bilibili.com/2069413730",
     "description": "social link bilibili or twitter"
   },
   "去B站关注": {
-    "message": "去B站关注",
+    "message": "查看我的GitHub",
     "description": "follow me btn text"
   },
   "homepage.followers": {
@@ -68,7 +68,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "或者可能是个 Bug，可以在 Bilibili@潜心专研的小张同学、QQ 群里私信告知我~!",
+    "message": "或者可能是个 Bug，可以在 Bilibili@林同学、QQ 群里私信告知我~!",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
@@ -256,7 +256,7 @@
     "description": "Bilibili docs link label"
   },
   "homepage.hero.text": {
-    "message": "在这里，有{blogs}以及UP主的想法和生活点滴。授人以鱼不如授人以渔，分享个人所学所见，在你学习前端开发的路上助你一臂之力！",
+    "message": "",
     "description": "hero text"
   },
   "hompage.hero.text.course": {

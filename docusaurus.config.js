@@ -3,11 +3,11 @@ const math = require("remark-math");
 const katex = require("rehype-katex");
 
 module.exports = {
-  title: "潜心专研的小张同学", // 网站标签名称
+  title: "林同学", // 网站标签名称
   // tagline:
   //   "帮助你提升前端开发技能，分享 HTML、CSS、JavaScript、React 和 Vue 等开发实战经验",
   titleDelimiter: "-",
-  url: "https://zhangqiang.vercel.app",
+  url: "http://zreren.cn",
   baseUrl: "/",
   favicon: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4", // 网站图标
   organizationName: "zhangqiang", // Usually your GitHub org/user name.
@@ -21,9 +21,9 @@ module.exports = {
     // },
     hideableSidebar: true,
     navbar: {
-      title: "潜心专研的小张同学",
+      title: "林同学",
       logo: {
-        alt: "潜心专研的小张同学",
+        alt: "林同学",
         src: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
         srcDark: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
       },
@@ -38,7 +38,7 @@ module.exports = {
         // },
         {
           to: "docs/all-intro",
-          label: "专属学习笔记",
+          label: "文档",
           position: "right",
         },
         {
@@ -51,11 +51,6 @@ module.exports = {
 
           ],
         },
-        {
-          href: "https://github.com/JACK-ZHANG-coming/my-now-blog",
-          label: "本站源码",
-          position: "right",
-        },
       ],
     },
     algolia: {
@@ -66,51 +61,16 @@ module.exports = {
     },
     footer: {
       style: "dark",
-      links: [{
-          title: "学习",
-          items: [{
-              label: "w3school 在线教程",
-              to: "https://www.w3school.com.cn/index.html",
-            },
-            {
-              label: "JavaScript | MDN",
-              to: "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/random",
-            },
-            {
-              label: "前端学习路线",
-              to: "https://objtube.gitee.io/front-end-roadmap/#/",
-            },
-            {
-              label: "使用 State Hook – React",
-              to: "https://zh-hans.reactjs.org/docs/hooks-state.html#gatsby-focus-wrapper",
-            },
-          ],
-        },
+      links: [
         {
           title: "社交媒体",
           items: [{
               label: "GitHub",
-              href: "https://github.com/JACK-ZHANG-coming",
+              href: "https://github.com/zreren",
             },
             {
               label: "Bilibili 哔哩哔哩",
-              href: "https://space.bilibili.com/299974236",
-            },
-          ],
-        },
-        {
-          title: "友情链接",
-          items: [{
-              label: "yuqing521のblog",
-              to: "https://yuqing521.github.io/",
-            },
-            {
-              label: "lookroot的个人空间",
-              to: "https://www.lookroot.cn/",
-            },
-            {
-              label: "峰华前端工程师",
-              to: "https://zxuqian.cn",
+              href: "https://space.bilibili.com/2069413730",
             },
           ],
         },
